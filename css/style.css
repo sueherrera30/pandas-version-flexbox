@@ -21,6 +21,7 @@ background-color:#6D6875;
   justify-content:flex-end;
 }
 .links{
+font-size:35px;
 margin:2%;
 list-style: none;
 }
@@ -103,4 +104,15 @@ span{
   display:flex;
   justify-content: center;
   font-size:30px;
+}
+
+footer{
+  background-color:#6D6875;
+  color:white;
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+footer:hover{
+  color:pink;
 }
